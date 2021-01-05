@@ -88,7 +88,7 @@ There are 4 different types of app components.
 		  onDetach() --> is called when fragment is no longer associated with activity.  
 
 
-**8) Describe three common usages of intent and how are they invoked and types intent.**
+**8) Describe three common usages of intent and how are they invoked and types intent.**  
 	Ans : a) Start an Activity 	--> startActivity(intent)  
 		  b) start a service  --> startService(intent)  
 		  c) deliver a broadcast --> sendBroadcast(intent)  
