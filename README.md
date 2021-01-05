@@ -2,7 +2,8 @@
 
 **1.What is Android.?**
 
-It is an open source operating system that is primarily used on mobile devices,such as cell phones and tablets.  \ It is an kernel linux based operating system that allows developers to create and run apps that can perform basic and advanced functions.
+It is an open source operating system that is primarily used on mobile devices,such as cell phones and tablets.  
+It is an kernel linux based operating system that allows developers to create and run apps that can perform basic and advanced functions.
 
 
 **2.Who is founder of Android.?**
