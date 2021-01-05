@@ -1,19 +1,20 @@
 # Android Interview QA
 
-1.**What is Android.?**
+**1.What is Android.?**
 
 It is an open source operating system that is primarily used on mobile devices,such as cell phones and tablets. It is an kernel linux based operating system that allows developers to create and run apps that can perform basic and advanced functions.
 
 
-2.**Who is founder of Android.?**
+**2.Who is founder of Android.?**
 
 Andy Rubins.
 
-3.**What are app components in Android?**
+
+**3.What are app components in Android?**
 
 App Component are Essential Building blocks of android.Each component are starting or entry point through which the system or user can enter the app.Some component depend on others.
 
-There are 4 different types of app components.
+There are `4` different types of app components.
 
 	* Activities - An activity is an entry point for interacting with the user.It represents a single sreen with a user interface.
 
