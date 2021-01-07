@@ -187,8 +187,6 @@
 		- service is stopped  
 
 
-
-
 ### Core Android
 
 ### Android Libraries
@@ -217,3 +215,7 @@
 		- flatmap tansforms the items emitted by observable in observables.  
 
 		- Very important: FlatMap is used to map over asynchronous operations.  
+
+
+#### Android Architecture
+
