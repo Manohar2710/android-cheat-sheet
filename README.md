@@ -187,6 +187,14 @@
 		- service is stopped  
 
 
+
+
+### Core Android
+
+### Android Libraries
+
+#### RXJava
+
 * **Why should we use RxJava on Android?**    
 	- We use RxJava for multithreading  
 
