@@ -37,17 +37,8 @@
 * **What are Fragments? Describe there lifecycle methods.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_are_Fragments.md)
 
 
-* **Describe three common usages of intent and how are they invoked and types intent.**  
-	- Start an Activity 	--> startActivity(intent)  
+* **Describe three common usages of intent and how are they invoked and types intent.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/common_usages_of_intent.md)  
 
-	- start a service  --> startService(intent)  
-
-	- deliver a broadcast --> sendBroadcast(intent)  
-  		- Intent intent = new Intent(Intant.ACTION_CALL,Uri.parse("tel:"+<Phone_number>))  
-
-  		- Intent intent = new Intent(Intent.ACTION_VIEW,Uri.parse("www.example.com")) // start new activity  
-
-		- startActivity(intent);  
 
 
 * **Define the types of launchMode of an Activity and describe each of them.**  
