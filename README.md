@@ -40,7 +40,6 @@
 * **Describe three common usages of intent and how are they invoked and types intent.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/common_usages_of_intent.md)  
 
 
-
 * **Define the types of launchMode of an Activity and describe each of them.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/types_of_launchModes.md)   
 
 
@@ -53,12 +52,8 @@
 	- pendingIntent is an wrapper of Intent. it is passed to an fourign application(Notification ,alarm) such that when some given condition is met the desired action is performed on the intent object it holds onto.  
 
 
-* **What is a service?**  
-	- Its is an component in android used for performing task in background such as play music location update.  
+* **What is a service,Explain?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_a_service.md) 
 
-	- Unlike activities service doesnt have an UI.    
-
-	- an service keeps running in backgroung even after the activities are destroyed.  
 
 
 * **Define and differentiate between the two types of services.**  
