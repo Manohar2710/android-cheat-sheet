@@ -31,56 +31,10 @@
 * **Activity, AppCompatActivity, FragmentActivity and ActionBarActivity. How are they related?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/How_are_they_related.md)  
 
 
-* **Explain Activity life Cycle:**
-	- onCreate() --> This method is first invoked when the activity is launched 
-
-	- onStart() --> This method is invoked when the after the onCreate() complete its task.  
-
-	- onResume() --> this method is called after onStart().  
-
-	- onPause() --> This method is called when the activity leaves the foreground(standby/sleep).  
-
-	- onStop() --> This is method is invoked when the activity is not visible anymore(another activity is launched)  
-
-	- onDestroy() --> this method is called when the activity or application is destroyed.  
-
-	- onRestart() -->   
+* **Explain Activity life Cycle** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/Explain_Activity_life_Cycle.md)
 
 
-* **What are Fragments? Describe there lifecycle methods.**  
-	- Fragments are part of activity,  
-
-	- They provide there own UI when embedded into the activity.  
-
-	- An activity can have multiple fragments.  
-
-	- fragments are reusable across the activity.  
-
-	- Fragment life cycle:  
-
-		- onAttach(Activity) --> Is called when it is attached with acitivity.  
-
-		- onCreate(Bundle) --> is used to initialise the fragment.  
-
-		- onCreateView(LayoutInflator,ViewGroup,Bundle) --> Create and returns view hierarchy.  
-
-		- onActiviyCreate(Bundle) --> is invoked after completion of onCreate method.  
-
-		- onViewStateRestored(Bundle) --> it provides information to the fragments such that all saved state of fragment view hierarchy are restored successfully.  
-
-		- onStart() --> it makes fragments visible.  
-
-		- onResume() --> makes fragment interactive.  
-
-		- onPause() --> is called when fragment is no longer interactive.  
-
-		- onStop() --> is called when fragment is no longer visible.  
-
-		- onDestroyView() --> it allows fragment to clean up resources.  
-
-		- onDestroy() --> it allows fragment to clean up of fragment state.  
-
-		- onDetach() --> is called when fragment is no longer associated with activity.  
+* **What are Fragments? Describe there lifecycle methods.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_are_Fragments.md)
 
 
 * **Describe three common usages of intent and how are they invoked and types intent.**  
