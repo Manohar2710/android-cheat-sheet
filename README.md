@@ -28,6 +28,7 @@
 * **What is the difference between Activity and AppCompatActivity?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/difference_between_Activity_and_AppCompatActivity.md)  
 
 
+
 * **Activity, AppCompatActivity, FragmentActivity and ActionBarActivity. How are they related?**  
 	- Activity is the base class.  
 
