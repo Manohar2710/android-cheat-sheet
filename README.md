@@ -25,12 +25,7 @@
 * **What are app components in Android?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/app_components.md)
 
 
-* **What is the difference between Activity and AppCompatActivity?**  
-	- AppCompactActivity provides nativve actionbar that is consistent accross the application.  
-
-	- it provides backward compatibility for other design material components till SDk 7.  
-
-	- SDK 21 every activity by default extends AppCompactActivity.  
+* **What is the difference between Activity and AppCompatActivity?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/difference_between_Activity_and_AppCompatActivity.md)  
 
 
 * **Activity, AppCompatActivity, FragmentActivity and ActionBarActivity. How are they related?**  
