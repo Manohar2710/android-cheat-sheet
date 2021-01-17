@@ -257,7 +257,7 @@
 
 		- It does not support RXjava or any reactive frame works
 
-	-Room
+	- Room
 		- Room persistence library provides an abstraction layer over the SQLite to allow more robust database access.
 
 		- This helps you to create an cache of your app data on the device thats running your app.
@@ -309,7 +309,7 @@
 
 	- Below is lifecycle of view class which undergoes several methods to get drawn on the screen.
 
-	![](.Android/res/view_lifecycle.png "View lifecycle")
+	![](./Android/res/view_lifecycle.png "View lifecycle")
 
 	- Explanation
 		- `onAttachedToWindow()`- Called when a view is attached to window,this is when the view knows it can be active and has surface for drawing.
