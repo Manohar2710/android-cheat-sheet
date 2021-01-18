@@ -43,7 +43,6 @@
 * **Define the types of launchMode of an Activity and describe each of them.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/types_of_launchModes.md)   
 
 
-
 * **Which method gets invoked when the user presses back button on the screen?**  
 	- onbackPressed method is invoked   
 
@@ -55,16 +54,7 @@
 * **What is a service,Explain?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_a_service.md) 
 
 
-
-* **Define and differentiate between the two types of services.**  
-	- Bound Service  
-		- an android component can bind itself using bindService().  
-		- an bound service would run as long as the other application component are bound to it.  
-		- we can use unBineService() to unbind the service from that activity.  
-
-  	- UnBoundService  
-		- it starts when a activity calls startActivity method.  
-		- it runs background even after the original component is destroyed.   
+* **Define and differentiate between the two types of services.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/two_types_of_services.md)  
 
 
 * **Describe the lifecycle methods of a service.**  
