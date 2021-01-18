@@ -57,34 +57,7 @@
 * **Define and differentiate between the two types of services.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/two_types_of_services.md)  
 
 
-* **Describe the lifecycle methods of a service.**  
-	- UnBound Service  
-		- startService()         	
-							
-		- onCreate()				
-									
-		- OnStartCommand()		
-		 						
-		- service is running	
-								
-		- OnDestroy()				
-									
-		- service is stopped			
-	
-	- UnBound Service							
-		- bindService()   						
-		
-		- onCreate()  
-
-		- onBind()  
-
-		- service is running
-
-		- onUnbind()
-
-		- onDestroy()
-
-		- service is stopped  
+* **Describe the lifecycle methods of a service.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/lifecycle_methods_of_a_service.md)   
 
 
 ### Core Android
