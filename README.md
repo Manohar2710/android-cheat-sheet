@@ -71,14 +71,8 @@
 * **How does RecyclerView differ from ListView** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/RecyclerView_differ_from_ListView.md)  
 
 
-* **How to Support Different Screen sizes in Android ?**
-	- Use View dimensions that allow layout to resize.
+* **How to Support Different Screen sizes in Android ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Different_Screen_sizes.md) 
 
-	- For Example constraintLayout,The best way to create an responsive layout for different screen sizes is to use constraintLayout.
-
-	- One way is to Create alternative layouts, for example the tablets will need different UI which is possible through configuration qualifiers.
-
-	- Another way is to Create stretchable nine-patch bitmaps.
 		
 * **Explain View LifeCycyle**
 	- `View` class Represents the basic building blocks for User Interface Components.
