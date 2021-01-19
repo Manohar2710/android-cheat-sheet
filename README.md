@@ -68,27 +68,9 @@
 * **What are difference between Room and SQLite?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Room_and_SQLite.md) 
 
 
-* **How does RecyclerView differ from ListView**
-	- RecyclerView : 
-		- With the advent of Android Lollipop, the RecyclerView made its way officially.
+* **How does RecyclerView differ from ListView** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/RecyclerView_differ_from_ListView.md)  
 
-		- The Recyclerview is much more powerful, flexible and a major enhancement of Listview.
 
-		- In RecyclerView its mandate to have an viewHolder.
-
-		- Below are supported layoutManagers in RecyclerView.
-			- LinearLayoutManager - support both vertical and horizontal list.
-
-			- GridLayoutManager - Which supports displaying grids like photo  galary.
-
-			- StraggeredLayoutManager - Which suport pintrest like stragged list.
-
-		- The RecyclerView.ItemDecorator class gives huge control to the developers but makes things a bit more time consuming and complex.
-
-	- ListView : 
-		- Item Decoration In case of ListViews, dynamically decorating items like adding borders or dividers was never easy
-
-		- Item Animator ListViews are lacking in support of good animations.
 * **How to Support Different Screen sizes in Android ?**
 	- Use View dimensions that allow layout to resize.
 
