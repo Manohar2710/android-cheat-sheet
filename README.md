@@ -87,16 +87,16 @@
 * **What are maps and flatmaps in rxJava?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/maps_and_flatmaps_in_rxJava.md) 
 
 
-#### Android Architecture
+### Android Architecture
 
-#### Android Design Problem  
+### Android Design Problem  
 
-#### Android Unit Testing  
+### Android Unit Testing  
 
-#### Android Tools And Technologies  
+### Android Tools And Technologies  
 
-#### Java and Kotlin
+### Java and Kotlin
 
-#### Data Structures And Algorithms
+### Data Structures And Algorithms
 
-#### Other Topics
+### Other Topics
