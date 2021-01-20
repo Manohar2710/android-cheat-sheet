@@ -84,14 +84,7 @@
 * **Why should we use RxJava on Android?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/RxJava_on_Android.md) 
 
 
-* **What are maps and flatmaps in rxJava?**  
-- Map   
-	- Map transforms the items emitted by an observable by applying a function to each of them.  
-
-- FlatMap :  
-	- flatmap tansforms the items emitted by observable in observables.  
-
-	- Very important: FlatMap is used to map over asynchronous operations.  
+* **What are maps and flatmaps in rxJava?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/maps_and_flatmaps_in_rxJava.md) 
 
 
 #### Android Architecture
