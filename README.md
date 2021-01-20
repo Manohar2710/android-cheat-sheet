@@ -81,28 +81,17 @@
 
 #### RXJava
 
-* **Why should we use RxJava on Android?**    
-	- We use RxJava for multithreading  
-
-	- subscribOn(Scheduler.io()) --> will process everything in a new thread.  
-
-	- observeOn(Schedulers.Mainthread()) --> will listen to results on main thread.
-
-	- filter() --> Used to filter result data   
-
-	- subscribe() -->   
-
-	- we can join the results of two data object in the result  
+* **Why should we use RxJava on Android?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/RxJava_on_Android.md) 
 
 
 * **What are maps and flatmaps in rxJava?**  
-	- Map   
-		- Map transforms the items emitted by an observable by applying a function to each of them.  
+- Map   
+	- Map transforms the items emitted by an observable by applying a function to each of them.  
 
-	- FlatMap :  
-		- flatmap tansforms the items emitted by observable in observables.  
+- FlatMap :  
+	- flatmap tansforms the items emitted by observable in observables.  
 
-		- Very important: FlatMap is used to map over asynchronous operations.  
+	- Very important: FlatMap is used to map over asynchronous operations.  
 
 
 #### Android Architecture
