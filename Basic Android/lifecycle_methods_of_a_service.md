@@ -1,27 +1,27 @@
-	- UnBound Service  
-		- startService()         	
-							
-		- onCreate()				
-									
-		- OnStartCommand()		
-		 						
-		- service is running	
+- UnBound Service  
+	- startService()         	
+						
+	- onCreate()				
 								
-		- OnDestroy()				
-									
-		- service is stopped			
+	- OnStartCommand()		
+	 						
+	- service is running	
+							
+	- OnDestroy()				
+								
+	- service is stopped			
+
+- UnBound Service							
+	- bindService()   						
 	
-	- UnBound Service							
-		- bindService()   						
-		
-		- onCreate()  
+	- onCreate()  
 
-		- onBind()  
+	- onBind()  
 
-		- service is running
+	- service is running
 
-		- onUnbind()
+	- onUnbind()
 
-		- onDestroy()
+	- onDestroy()
 
-		- service is stopped  
+	- service is stopped  

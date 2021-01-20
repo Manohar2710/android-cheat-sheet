@@ -1,7 +1,7 @@
-	- Activity is the base class.  
+- Activity is the base class.  
 
-	- FragmectsActivity extends Activity.  
+- FragmectsActivity extends Activity.  
 
-	- AppCompactActivity Extents FragmentsActivity.  
+- AppCompactActivity Extents FragmentsActivity.  
 
-	- ActionBarActivity Extends AppCompactActivity.  
+- ActionBarActivity Extends AppCompactActivity.  
