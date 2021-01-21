@@ -1,6 +1,6 @@
 # Android Interview QA
 
-#### Base
+### Base
 
 * **What is Android.?**
 	- It is an open source operating system that is primarily used on mobile devices,such as cell phones and tablets.It is an kernel linux based operating system that allows developers to create and run apps that can perform basic and advanced functions.
@@ -33,7 +33,7 @@
 	- SDK 21 every activity by default extends AppCompactActivity.  
 
 
-* **5) Activity, AppCompatActivity, FragmentActivity and ActionBarActivity. How are they related?**  
+* **Activity, AppCompatActivity, FragmentActivity and ActionBarActivity. How are they related?**  
 	- Activity is the base class.  
 
 	- FragmectsActivity extends Activity.  
@@ -43,7 +43,7 @@
 	- ActionBarActivity Extends AppCompactActivity.  
 
 
-* **6) Explain Activity life Cycle:**
+* **Explain Activity life Cycle:**
 	- onCreate() --> This method is first invoked when the activity is launched 
 
 	- onStart() --> This method is invoked when the after the onCreate() complete its task.  
@@ -59,7 +59,7 @@
 	- onRestart() -->   
 
 
-* **7) What are Fragments? Describe there lifecycle methods.**  
+* **What are Fragments? Describe there lifecycle methods.**  
 	- Fragments are part of activity,  
 
 	- They provide there own UI when embedded into the activity.  
@@ -95,7 +95,7 @@
 		- onDetach() --> is called when fragment is no longer associated with activity.  
 
 
-* **8) Describe three common usages of intent and how are they invoked and types intent.**  
+* **Describe three common usages of intent and how are they invoked and types intent.**  
 	- Start an Activity 	--> startActivity(intent)  
 
 	- start a service  --> startService(intent)  
@@ -108,7 +108,7 @@
 		- startActivity(intent);  
 
 
-* **9) Define the types of launchMode of an Activity and describe each of them.**  
+* **Define the types of launchMode of an Activity and describe each of them.**  
 	- Standard --> Its default launch mode every new instance of activity will be put on top of the stack.  
 
 	- singletop --> if there is an old instance of activity preset in stack.this instance will be called onCreate(), onNewIntent() will be  invoked. if not there will be an new instance created in the stack.  
@@ -118,57 +118,82 @@
 	- singleInstance -->Similar to singletask espect that for an new activity an new task is created if there are no instance in any task.   
 
 
-* **10) Which method gets invoked when the user presses back button on the screen?**  
+* **Which method gets invoked when the user presses back button on the screen?**  
 	- onbackPressed method is invoked   
 
 
-* **11) What is a PendingIntent?**  
-	Ans : pendingIntent is an wrapper of Intent. it is passed to an fourign application(Notification ,alarm) such that when some given condition is met the desired action is performed on the intent object it holds onto.  
+* **What is a PendingIntent?**  
+	- pendingIntent is an wrapper of Intent. it is passed to an fourign application(Notification ,alarm) such that when some given condition is met the desired action is performed on the intent object it holds onto.  
 
-**12) What is a service?**  
-	Ans : a) Its is an component in android used for performing task in background such as play music location update.  
-		  b) Unlike activities service doesnt have an UI.    
-		  c) an service keeps running in backgroung even after the activities are destroyed.  
 
-**13) Define and differentiate between the two types of services.**  
-	Ans : a) Bound Service  
-			--> an android component can bind itself using bindService().  
-			--> an bound service would run as long as the other application component are bound to it.  
-			--> we can use unBineService() to unbind the service from that activity.  
+* **What is a service?**  
+	- Its is an component in android used for performing task in background such as play music location update.  
 
-		  b) UnBoundService  
-		  	--> it starts when a activity calls startActivity method.  
-		  	--> it runs background even after the original component is destroyed.   
+	- Unlike activities service doesnt have an UI.    
 
-**14) Describe the lifecycle methods of a service.**  
-	Ans : startService()         	bindService()  
-				|						|  
-			onCreate()				onCreate()  
-				|						|  
-		 OnStartCommand()			 onBind()  
-		 		|						|  
-		service is running		service is running  
-				|						|  
-			OnDestroy()				onUnbind()  
-				|						|  
-		service is stopped			onDestroy()  
-										|  
-								service is stopped  
+	- an service keeps running in backgroung even after the activities are destroyed.  
+
+
+* **Define and differentiate between the two types of services.**  
+	- Bound Service  
+		- an android component can bind itself using bindService().  
+		- an bound service would run as long as the other application component are bound to it.  
+		- we can use unBineService() to unbind the service from that activity.  
+
+  	- UnBoundService  
+		- it starts when a activity calls startActivity method.  
+		- it runs background even after the original component is destroyed.   
+
+
+* **Describe the lifecycle methods of a service.**  
+	- UnBound Service  
+		- startService()         	
+							
+		- onCreate()				
+									
+		- OnStartCommand()		
+		 						
+		- service is running	
+								
+		- OnDestroy()				
+									
+		- service is stopped			
+	
+	- UnBound Service							
+		- bindService()   						
 		
+		- onCreate()  
 
-**15) Why should we use RxJava on Android?**  
-	Ans :   
-		a)We use RxJava for multithreading  
-		a)subscribOn(Scheduler.io()) --> will process everything in a new thread.  
-		b)observeOn(Schedulers.Mainthread()) --> will listen to results on main thread.  
-		c)filter() --> Used to filter result data   
-		d)subscribe() -->   
-		e)we can join the results of two data object in the result  
+		- onBind()  
 
-**16) What are maps and flatmaps in rxJava?**  
-	Ans :   
-		Map :  
-			a)Map transforms the items emitted by an observable by applying a function to each of them.  
-		FlatMap :  
-			b) flatmap tansforms the items emitted by observable in observables.  
-			c) Very important: FlatMap is used to map over asynchronous operations.  
+		- service is running
+
+		- onUnbind()
+
+		- onDestroy()
+
+		- service is stopped  
+
+
+* **Why should we use RxJava on Android?**    
+	- We use RxJava for multithreading  
+
+	- subscribOn(Scheduler.io()) --> will process everything in a new thread.  
+
+	- observeOn(Schedulers.Mainthread()) --> will listen to results on main thread.
+
+	- filter() --> Used to filter result data   
+
+	- subscribe() -->   
+
+	- we can join the results of two data object in the result  
+
+
+* **What are maps and flatmaps in rxJava?**  
+	- Map   
+		- Map transforms the items emitted by an observable by applying a function to each of them.  
+
+	- FlatMap :  
+		- flatmap tansforms the items emitted by observable in observables.  
+
+		- Very important: FlatMap is used to map over asynchronous operations.  
