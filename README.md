@@ -1,9 +1,10 @@
 # Android Interview QA
 
-**1) What is Android.?**
+#### Base
 
-It is an open source operating system that is primarily used on mobile devices,such as cell phones and tablets.  
-It is an kernel linux based operating system that allows developers to create and run apps that can perform basic and advanced functions.
+* **What is Android.?**
+
+	- It is an open source operating system that is primarily used on mobile devices,such as cell phones and tablets.It is an kernel linux based operating system that allows developers to create and run apps that can perform basic and advanced functions.
 
 
 **2) Who is founder of Android.?**
@@ -11,7 +12,7 @@ It is an kernel linux based operating system that allows developers to create an
 Andy Rubins.
 
 
-**3) What are app components in Android?**
+* **What are app components in Android?**
 
 App Component are Essential Building blocks of android.Each component are starting or entry point through\ which the system or user can enter the app.Some component depend on others.
 
@@ -26,7 +27,7 @@ There are 4 different types of app components.
 	* content providers - manages shared set of app data that you can store in file system,in a SQLite database ,on web,on a persistent storage that your app can access
 
 
-**4) What is the difference between Activity and AppCompatActivity?**  
+* **What is the difference between Activity and AppCompatActivity?**  
 	Ans : a) AppCompactActivity provides nativve actionbar that is consistent accross the application.  
 		  b) it provides backward compatibility for other design material components till SDk 7.  
 		  c) SDK 21 every activity by default extends AppCompactActivity.  
