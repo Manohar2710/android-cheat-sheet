@@ -286,11 +286,13 @@
 			- StraggeredLayoutManager - Which suport pintrest like stragged list.
 
 		- The RecyclerView.ItemDecorator class gives huge control to the developers but makes things a bit more time consuming and complex.
-		
+
 	- ListView : 
 		- Item Decoration In case of ListViews, dynamically decorating items like adding borders or dividers was never easy
 
-		- Item Animator ListViews are lacking in support of good animations
+		- Item Animator ListViews are lacking in support of good animations.
+
+		
 ### Android Libraries
 
 #### RXJava
