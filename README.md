@@ -14,7 +14,7 @@
 
 ### Basic Android
 
-* **What is Android.?** [Answer]https://github.com/Manohar2710/android-cheat-sheet/Basic Android/What_is_Android.md)
+* **What is Android.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_Android.md)
 	
 
 * **Who is founder of Android.?**
