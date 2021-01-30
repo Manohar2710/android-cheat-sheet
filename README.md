@@ -14,9 +14,8 @@
 
 ### Basic Android
 
-* **What is Android.?**
-	- It is an open source operating system that is primarily used on mobile devices,such as cell phones and tablets.It is an kernel linux based operating system that allows developers to create and run apps that can perform basic and advanced functions.
-
+* **What is Android.?** [Answer]https://github.com/Manohar2710/android-cheat-sheet/Basic Android/What_is_Android.md)
+	
 
 * **Who is founder of Android.?**
 
@@ -309,7 +308,7 @@
 
 	- Below is lifecycle of view class which undergoes several methods to get drawn on the screen.
 
-	![](./Android/res/view_lifecycle.png "View lifecycle")
+	![](./res/view_lifecycle.png "View lifecycle")
 
 	- Explanation
 		- `onAttachedToWindow()`- Called when a view is attached to window,this is when the view knows it can be active and has surface for drawing.
