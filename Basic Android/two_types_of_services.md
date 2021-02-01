@@ -1,3 +1,13 @@
+- Foreground Service 
+	- This is something which is noticeable to the user .Ex Audio app to use Foregroudservice to change the track
+
+	- It must display notification.
+
+- UnBoundService(BackgroundSerive)  
+	- it starts when a activity calls startActivity method.  
+	
+	- it runs background even after the original component is destroyed.   
+
 - Bound Service  
 	- an android component can bind itself using bindService().  
 
@@ -5,7 +15,3 @@
 
 	- we can use unBineService() to unbind the service from that activity.  
 
-- UnBoundService  
-	- it starts when a activity calls startActivity method.  
-	
-	- it runs background even after the original component is destroyed.   

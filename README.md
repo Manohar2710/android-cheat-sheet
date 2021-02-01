@@ -28,7 +28,7 @@
 * **What is the difference between Activity and AppCompatActivity?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/difference_between_Activity_and_AppCompatActivity.md)  
 
 
-* **Activity, AppCompatActivity, FragmentActivity and ActionBarActivity. How are they related?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/How_are_they_related.md)  
+* **Activity, FragmentActivity, AppCompatActivity and ActionBarActivity. How are they related?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/How_are_they_related.md)  
 
 
 * **Explain Activity life Cycle** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/Explain_Activity_life_Cycle.md)
