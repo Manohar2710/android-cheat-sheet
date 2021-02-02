@@ -126,6 +126,14 @@
 
 * **What are the access modifiers.? Explain each.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/access_modifiers.md)
 
+* **Can an interface implement another interface.?if yes how?**
+	- Yes, an interface can implement another interface using the `extend` keyword.
+
+	- And you cannot remove methods from parent interface, but can added new method in the extended interface.
+
+* **What is polymorphism and interface** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/polymorphism_and_inheritance.md) 
+
+
 #### Kotlin
 
 
