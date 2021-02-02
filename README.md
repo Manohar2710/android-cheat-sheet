@@ -38,6 +38,8 @@
 
 * **What are Fragments? Describe there lifecycle methods.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_are_Fragments.md)
 
+* **Why is it recommended to use default contructor to create a Fragment ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/Why_Default_Constructor.md)
+
 
 * **Describe three common usages of intent and how are they invoked and types intent.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/common_usages_of_intent.md)  
 

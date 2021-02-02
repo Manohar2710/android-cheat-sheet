@@ -4,7 +4,7 @@
 
 - Used to get info regarding the shared preferences, resources and databases ect.
 
--Two types of context 
+- Two types of context 
 	- Application context.
 		- It is an SingleTon instance.
 
