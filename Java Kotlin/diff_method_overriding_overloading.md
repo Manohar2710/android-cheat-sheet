@@ -3,6 +3,7 @@
 | Method overloading happens at compile time | Method Overriding happens at run time|
 | For overriding both base class and child class are required|overloading is done in same class|
 | Private and final methods can not be overrided |In case f overloading it is possible|
+| Argument of the method should be same |Argument of the method should be different here|
 
 - Example  
 

@@ -123,6 +123,9 @@
 * **Difference between composition and inheritance** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/diff_composition_inheritance.md)
 
 * **Difference between method overloading and method overiding.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/diff_method_overriding_overloading.md)
+
+* **What are the access modifiers.? Explain each.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/access_modifiers.md)
+
 #### Kotlin
 
 
