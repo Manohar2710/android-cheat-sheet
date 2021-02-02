@@ -120,6 +120,8 @@
 
 * **Difference between abstract class and an interface.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/diff_abstract_interface.md)
 
+* **Difference between composition and inheritance** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/diff_composition_inheritance.md)
+
 #### Kotlin
 
 
