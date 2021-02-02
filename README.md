@@ -21,6 +21,8 @@
 
 	- Andy Rubins.
 
+* **What are context? How is it used?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_Context.md)
+
 
 * **What are app components in Android?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/app_components.md)
 
