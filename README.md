@@ -74,6 +74,8 @@
 * **What are Canvas?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/what_are_canvas.md) 
 
 
+* **How does Touch control Event work in Android.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/what_are_touch_control_event.md)
+
 ### Core Android
 
 * **What are Build Type , Product Flavor,Build Variant ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Build_Type_Product_Flavor_Build_Variant.md)    
