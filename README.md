@@ -38,6 +38,7 @@
 
 * **What are Fragments? Describe there lifecycle methods.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_are_Fragments.md)
 
+
 * **Why is it recommended to use default contructor to create a Fragment ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/Why_Default_Constructor.md)
 
 
@@ -64,12 +65,17 @@
 * **Describe the lifecycle methods of a service.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/lifecycle_methods_of_a_service.md)   
 
 
+* **What is View in Android .? Difference between View.GONE and VIEW.INVISIBLE.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/View_in_Android.md)
+
+* **Explain View LifeCycyle** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/View_LifeCycyle.md) 
+
+
 ### Core Android
 
 * **What are Build Type , Product Flavor,Build Variant ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Build_Type_Product_Flavor_Build_Variant.md)    
 
 
-* **What are difference between Room and SQLite?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Room_and_SQLite.md) 
+* **What are difference between Room and SQLite ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Room_and_SQLite.md) 
 
 
 * **How does RecyclerView differ from ListView** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/RecyclerView_differ_from_ListView.md)  
@@ -78,7 +84,6 @@
 * **How to Support Different Screen sizes in Android ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Different_Screen_sizes.md) 
 
 		
-* **Explain View LifeCycyle** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/View_LifeCycyle.md) 
 
     
 ### Android Libraries
