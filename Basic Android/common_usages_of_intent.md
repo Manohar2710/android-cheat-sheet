@@ -36,7 +36,6 @@
 				putExtra(Intent.EXTRA_TEXT,textMessage)
 				type = "text/plain"
 			}
-
 			//Verifying that the intent resolves to an activity
 			if(intent.resolveAvtivity(packageManager) != null){
 				startActivity(intent)
