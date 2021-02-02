@@ -118,6 +118,8 @@
 
 * **Difference between constructor and a method** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/diff_const_and_method.md) 
 
+* **Difference between abstract class and an interface.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/diff_abstract_interface.md)
+
 #### Kotlin
 
 
