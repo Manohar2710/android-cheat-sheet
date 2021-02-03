@@ -1,8 +1,10 @@
-- Start an Activity 	--> startActivity(intent)  
+- To Start an Activity 	--> startActivity(intent)  
 
-- start a service  -->  startService(intent)  
+- To Start a service  -->  startService(intent)  
 
-- deliver a broadcast --> sendBroadcast(intent)  
+- To Deliver a broadcast --> sendBroadcast(intent)  
+
+- An Intent is also used as an means of data transfer technique between the components.
 
 - Example :
 	- Intent intent = new Intent(Intant.ACTION_CALL,Uri.parse("tel:"+<Phone_number>))  
@@ -25,9 +27,9 @@
 		```
 
 	- Implicit Intent : 
-		- If you want a perticular action to be perfomed from external application, we make use of implicit intent.
+		- If you want a `perticular action` to be perfomed from external application, we make use of implicit intent.
 
-		- for example if you want to send a message, then the Android system will provide Gmail,Instagram,Whatsap options etc.
+		- for example if you want to `send a message`, then the Android system will provide Gmail,Instagram,Whatsap etc options.
 
 		- Example : 
 			```kotlin

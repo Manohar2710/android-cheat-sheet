@@ -16,7 +16,7 @@
 
 	- onActiviyCreate(Bundle) --> is invoked after completion of onCreate method.  
 
-	- onViewStateRestored(Bundle) --> it provides information to the fragments such that all saved state of fragment view hierarchy are restored successfully.  
+	- onViewStateRestored(Bundle) --> it provides information to the fragments such that all saved state of fragment view hierarchy are restored successfully.  //optional
 
 	- onStart() --> it makes fragments visible.  
 
@@ -26,8 +26,8 @@
 
 	- onStop() --> is called when fragment is no longer visible.  
 
-	- onDestroyView() --> it allows fragment to clean up resources.  
+	- onDestroyView() --> it allows fragment to clean up `resource`.  
 
-	- onDestroy() --> it allows fragment to clean up of fragment state.  
+	- onDestroy() --> it allows fragment to clean up of `fragment state`.  
 
 	- onDetach() --> is called when fragment is no longer associated with activity.  

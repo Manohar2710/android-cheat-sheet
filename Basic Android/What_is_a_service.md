@@ -1,4 +1,4 @@
-- Its is an component in android used for performing task in background such as play music location update.  
+- Its is an `component` in android used for performing task in background such as play music, location update.  
 
 - Unlike activities service doesnt have an UI.    
 

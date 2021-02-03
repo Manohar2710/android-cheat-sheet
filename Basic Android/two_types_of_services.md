@@ -4,7 +4,7 @@
 	- It must display notification.
 
 - UnBoundService(BackgroundSerive)  
-	- it starts when a activity calls startActivity method.  
+	- it starts when a activity calls `startService()` method.  
 	
 	- it runs background even after the original component is destroyed.   
 

@@ -10,4 +10,4 @@
 
 - onDestroy() --> this method is called when the activity or application is destroyed.  
 
-- onRestart() --> When the Activity is hidden and opened, the onRestart method is called.
+- onRestart() --> When a Activity is hidden and opened, the onRestart method is called.

@@ -24,7 +24,7 @@
 * **What are context? How is it used?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_Context.md)
 
 
-* **What are app components in Android?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/app_components.md)
+* **What are App Components in Android?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/app_components.md)
 
 
 * **What is the difference between Activity and AppCompatActivity?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/difference_between_Activity_and_AppCompatActivity.md)  
@@ -53,13 +53,13 @@
 
 
 * **What is a PendingIntent?**  
-	- pendingIntent is an wrapper of Intent. it is passed to an fourign application(Notification ,alarm) such that when some given condition is met the desired action is performed on the intent object it holds onto.  
+	- pendingIntent is an wrapper of Intent. If you want to perform an intent operation at future point on future point of a time on behalf of you, we make use of the pending Intents.   
 
 
-* **What is a service,Explain?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_a_service.md) 
+* **What is a service, Explain?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_a_service.md) 
 
 
-* **Define and differentiate between the two types of services.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/two_types_of_services.md)  
+* **Define and differentiate between types of services.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/two_types_of_services.md)  
 
 
 * **Describe the lifecycle methods of a service.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/lifecycle_methods_of_a_service.md)   
