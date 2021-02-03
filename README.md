@@ -138,6 +138,7 @@
 #### Kotlin
 * **Why kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/why_kotlin.md) 
 
+* **Difference between val , var and const.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/diff_val_var_const.md) 
 
 ### Data Structures And Algorithms
 
