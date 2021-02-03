@@ -111,7 +111,8 @@
 
 ### Android Tools And Technologies  
 
-### Java and Kotlin
+### Java Kotlin OOP
+
 #### OOP
 * **Explain OOP Concept.** 
 	- Object Oriented Programming is methodology used for desiging a program using classes, objects, inheritance, polymorphism, abstraction and encapsulation.
@@ -135,6 +136,7 @@
 
 
 #### Kotlin
+* **Why kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/why_kotlin.md) 
 
 
 ### Data Structures And Algorithms
