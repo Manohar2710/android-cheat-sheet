@@ -165,7 +165,7 @@
 
 * **What is lateinit keyword in kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/lateinit_keyword.md)
 
-* **What are flatmaps and maps in kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/lateinit_keyword.md)
+* **What are flatmaps and maps in kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/flatmap_and_map.md)
 
 
 ### Data Structures And Algorithms
