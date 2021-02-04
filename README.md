@@ -140,6 +140,8 @@
 
 * **Difference between val , var and const.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/diff_val_var_const.md) 
 
+* **What is String Interpolation.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/string_interpolation.md)
+
 ### Data Structures And Algorithms
 
 ### Other Topics
