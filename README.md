@@ -15,7 +15,6 @@
 ### Basic Android
 
 * **What is Android.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_Android.md)
-	
 
 * **Who is founder of Android.?**
 
@@ -23,56 +22,39 @@
 
 * **What are context? How is it used?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_Context.md)
 
-
 * **What are App Components in Android?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/app_components.md)
-
 
 * **What is the difference between Activity and AppCompatActivity?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/difference_between_Activity_and_AppCompatActivity.md)  
 
-
 * **Activity, FragmentActivity, AppCompatActivity and ActionBarActivity. How are they related?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/How_are_they_related.md)  
-
 
 * **Explain Activity life Cycle** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/Explain_Activity_life_Cycle.md)
 
-
 * **What are Fragments? Describe there lifecycle methods.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_are_Fragments.md)
-
 
 * **Why is it recommended to use default contructor to create a Fragment ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/Why_Default_Constructor.md)
 
-
 * **Describe three common usages of intent and how are they invoked and types intent.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/common_usages_of_intent.md)  
 
-
 * **Define the types of launchMode of an Activity and describe each of them.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/types_of_launchModes.md)   
-
 
 * **Which method gets invoked when the user presses back button on the screen?**  
 	- onbackPressed method is invoked   
 
-
 * **What is a PendingIntent?**  
 	- pendingIntent is an wrapper of Intent. If you want to perform an intent operation at future point on future point of a time on behalf of you, we make use of the pending Intents.   
 
-
 * **What is a service, Explain?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/What_is_a_service.md) 
-
 
 * **Define and differentiate between types of services.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/two_types_of_services.md)  
 
-
 * **Describe the lifecycle methods of a service.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/lifecycle_methods_of_a_service.md)   
-
 
 * **What is View in Android.? Difference between View.GONE and VIEW.INVISIBLE.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/View_in_Android.md)
 
-
 * **Explain View LifeCycyle** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/View_LifeCycyle.md) 
 
-
 * **What are Canvas?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/what_are_canvas.md) 
-
 
 * **How does Touch control Event work in Android.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/what_are_touch_control_event.md)
 
@@ -81,33 +63,12 @@
 
 * **What are Build Type , Product Flavor,Build Variant ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Build_Type_Product_Flavor_Build_Variant.md)    
 
-
 * **What are difference between Room and SQLite ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Room_and_SQLite.md) 
-
 
 * **How does RecyclerView differ from ListView** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/RecyclerView_differ_from_ListView.md)  
 
-
 * **How to Support Different Screen sizes in Android ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Different_Screen_sizes.md) 
 
-    
-### Android Libraries
-
-#### RXJava
-
-* **Why should we use RxJava on Android?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/RxJava_on_Android.md) 
-
-
-* **What are maps and flatmaps in rxJava?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/maps_and_flatmaps_in_rxJava.md) 
-
-
-### Android Architecture
-
-### Android Design Problem  
-
-### Android Unit Testing  
-
-### Android Tools And Technologies  
 
 ### Java Kotlin OOP
 
@@ -169,6 +130,30 @@
 
 * **What are access modifiers in kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/access_modifiers.md)
 
+    
+### Android Libraries
+
+#### RXJava
+
+* **Why should we use RxJava on Android?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/RxJava_on_Android.md) 
+
+* **What are maps and flatmaps in rxJava?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/maps_and_flatmaps_in_rxJava.md) 
+
+* **What is Livedata in kotlin coroutines?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/livedata_in_kotlin.md) 
+
+* **Difference between launch and async.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/diff_launch_asynch.md) 
+
+* **Explain Suspend function in kotlin.**
+	- Suspend function are regular function, which can be paused and resumed at later time. They can execute long running operations with blocking. The syntax of suspend function is same regular function except for addition of suspend keyword. 
+
+
+### Android Architecture
+
+### Android Design Problem  
+
+### Android Unit Testing  
+
+### Android Tools And Technologies  
 
 ### Data Structures And Algorithms
 
