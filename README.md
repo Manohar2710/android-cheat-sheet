@@ -167,6 +167,8 @@
 
 * **What are flatmaps and maps in kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/flatmap_and_map.md)
 
+* **What are access modifiers in kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/access_modifiers.md)
+
 
 ### Data Structures And Algorithms
 
