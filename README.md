@@ -158,6 +158,11 @@
 
 * **What is an Sealed class in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/sealed_class.md)
 
+* **What is an Higher Order Function in kotlin.** 
+	- Higher order function is function that takes function as its one of the arguments or returns a fuunction 
+
+* **What are scoping functions in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/scoping_functions.md)
+
 
 ### Data Structures And Algorithms
 
