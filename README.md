@@ -163,6 +163,7 @@
 
 * **What are scoping functions in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/scoping_functions.md)
 
+* **What are Null safety operators.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/null_safetty_operator.md)
 
 ### Data Structures And Algorithms
 
