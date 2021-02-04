@@ -142,6 +142,8 @@
 
 * **What is String Interpolation.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/string_interpolation.md)
 
+* **Explain init block in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/init_block.md)
+
 ### Data Structures And Algorithms
 
 ### Other Topics
