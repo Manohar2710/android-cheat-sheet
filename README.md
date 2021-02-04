@@ -156,6 +156,9 @@
 
 * **What is an data class in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/data_class.md)
 
+* **What is an Sealed class in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/sealed_class.md)
+
+
 ### Data Structures And Algorithms
 
 ### Other Topics
