@@ -143,6 +143,17 @@
 * **What is String Interpolation.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/string_interpolation.md)
 
 * **Explain init block in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/init_block.md)
+ 
+* **Explain init block in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/init_block.md)
+
+* **What is an open keyword, where it is used?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/open_keyword.md)
+
+* **What is an open keyword, where it is used?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/open_keyword.md)
+
+* **What is an Extention function in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/extention_function.md)
+
+* **What is an Infix function in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/infix_function.md)
+
 
 ### Data Structures And Algorithms
 
