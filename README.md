@@ -90,8 +90,6 @@
 
 * **How to Support Different Screen sizes in Android ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Different_Screen_sizes.md) 
 
-		
-
     
 ### Android Libraries
 
@@ -156,7 +154,7 @@
 
 * **What is an data class in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/data_class.md)
 
-* **What is an Sealed class in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/sealed_class.md)
+* **What is an Sealed class in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/Sealed_class.md)
 
 * **What is an Higher Order Function in kotlin.** 
 	- Higher order function is function that takes function as its one of the arguments or returns a fuunction 
@@ -164,6 +162,11 @@
 * **What are scoping functions in kotlin.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/scoping_functions.md)
 
 * **What are Null safety operators.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/null_safetty_operator.md)
+
+* **What is lateinit keyword in kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/lateinit_keyword.md)
+
+* **What are flatmaps and maps in kotlin.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Java%20Kotlin/lateinit_keyword.md)
+
 
 ### Data Structures And Algorithms
 
