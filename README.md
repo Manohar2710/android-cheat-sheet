@@ -56,7 +56,7 @@
 
 * **Explain View LifeCycyle** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/View_LifeCycyle.md) 
 
-* **What are Canvas?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/what_are_canvas.md) 
+* **What are Canvas?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/what_are_canvas.md) 
 
 * **How does Touch control Event work in Android.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/what_are_touch_control_event.md)
 
