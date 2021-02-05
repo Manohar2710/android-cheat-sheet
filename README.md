@@ -36,6 +36,8 @@
 
 * **Describe three common usages of intent and how are they invoked and types intent.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/common_usages_of_intent.md)  
 
+* **How to send from activity to fragment,activity to activity.?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/share_data_between_components.md)  
+
 * **Define the types of launchMode of an Activity and describe each of them.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Basic%20Android/types_of_launchModes.md)   
 
 * **Which method gets invoked when the user presses back button on the screen?**  
