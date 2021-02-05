@@ -2,7 +2,7 @@
 
 - Unlike regular `observables`, LiveData is `lifecycle-aware`, meaning it respects the lifecycle of an activity, fragment or service.
 
-- This awarness makes sure that LiveData update app component observers that are in active lifecycle state.
+- This awarness makes sure that LiveData update, app component observers that are in active lifecycle state.
 
 - `LiveData` does not have any public method to update the data stored, So we make use of `MutableLiveData` class which exposes the `setValue(T)` and `postValue(T)` to update any data stored in the `LiveData` object.
 

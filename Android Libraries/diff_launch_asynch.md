@@ -3,6 +3,10 @@
 - Launch :
 	- It will not block the main Thread, but the execution of the other lines of code will not be effected,As launch is not a suspend call.
 
+	- can be called as fire and forget.
+
+	- launch can be used inside a normal function.
+
 	- Example
 	```kotlin 
 	fun launchExample(){ 
@@ -40,7 +44,11 @@
 
 
 - Async :
-	- Async is also used to start a coroutines, but it block the main thread at the entry point of the `await()` function in the program
+	- Async is also used to start a coroutines, but it block the main thread at the entry point of the `await()` function in the program.
+
+	- Allows you to return a result, when used with the suspend function and await.
+
+	- Asynch should be called inside a coroutines scope.
 
 	- Example 
 	```kotlin
