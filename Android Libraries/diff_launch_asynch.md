@@ -1,4 +1,4 @@
-- These are the main teo function available to start the coroutines
+- These are the main two function available to start the coroutines
 
 - Launch :
 	- It will not block the main Thread, but the execution of the other lines of code will not be effected,As launch is not a suspend call.
