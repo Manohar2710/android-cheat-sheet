@@ -153,7 +153,11 @@
 * **Difference between launch and async.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/diff_launch_asynch.md) 
 
 * **Explain Suspend function in kotlin.**
-	- Suspend function are regular function, which can be paused and resumed at later time. They can execute long running operations with blocking. The syntax of suspend function is same regular function except for addition of suspend keyword. 
+	- Suspend function are regular function, which can be paused and resumed at later time. They can execute long running operations with blocking. 
+
+	- The syntax of suspend function is same regular function except for addition of suspend keyword. 
+	
+	- can only be called from a coroutine or a another suspend function.
 
 
 ### Android Architecture
