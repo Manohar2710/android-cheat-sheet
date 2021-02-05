@@ -71,6 +71,10 @@
 
 * **How to Support Different Screen sizes in Android ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/Different_Screen_sizes.md) 
 
+* **What are types of Threads in Android ?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/types_threads_android.md)    
+
+* **Difference between MVP and MVVM?** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Core%20Android/diff_mvp_mvvm.md)    
+
 
 ### Java Kotlin OOP
 
