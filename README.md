@@ -159,6 +159,9 @@
 	
 	- can only be called from a coroutine or a another suspend function.
 
+#### ViewBinding
+
+* **Explain viewBinding.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/explain_viewbinding.md) 
 
 ### Android Architecture
 
