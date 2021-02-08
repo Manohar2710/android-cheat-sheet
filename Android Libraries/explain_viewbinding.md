@@ -17,7 +17,7 @@
 	``` 
 
 	- Usage in activity 
-	````kotlin
+	```kotlin
 	private latinit var _binding = ResultProfileBinding
 
 	override fun onCreate(savedInstanceState : Bundle?){

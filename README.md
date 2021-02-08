@@ -163,6 +163,9 @@
 
 * **Explain viewBinding.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/explain_viewbinding.md) 
 
+* **Explain dataBinding.** [Answer](https://github.com/Manohar2710/android-cheat-sheet/blob/master/Android%20Libraries/explain_dataBinding.md) 
+
+
 ### Android Architecture
 
 ### Android Design Problem  
